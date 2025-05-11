@@ -3,7 +3,7 @@
 <p align="center">
   <img src="visuals/correlation_heatmap.png" width="500"/>
   <br>
-  <em>Correlation heatmap showing the strongest relationships with diabetes</em>
+  <em>Correlation heatmap showing how each health feature relates to diabetes with diabetes</em>
 </p>
 
 ---
