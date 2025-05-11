@@ -58,9 +58,10 @@ This project explores a real-world dataset to predict diabetes based on patient 
 
 These patterns align with real medical knowledge and help build trust in the model’s output.
 
+---
 
 ## Conclusion
 
 This project shows which health factors are most linked to diabetes and how machine learning can help spot it early. The Random Forest model was the best choice because it found more diabetic cases while still being accurate overall.
 
-Thank you for checkig out my project!
+Thank you for checking out my project!
