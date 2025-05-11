@@ -1,7 +1,10 @@
 # Diabetes Prediction Analysis
 
-![Correlation Heatmap](visuals/correlation_heatmap.png)
-
+<p align="center">
+  <img src="visuals/correlation_heatmap.png" width="600"/>
+  <br>
+  <em>Correlation heatmap showing the strongest relationships with diabetes</em>
+</p>
 ---
 
 ## Overview
