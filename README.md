@@ -1,4 +1,7 @@
 # Diabetes Prediction Analysis
+
+![Correlation Heatmap](visuals/correlation_heatmap.png)
+
 ---
 
 ## Overview
